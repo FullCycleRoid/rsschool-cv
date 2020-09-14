@@ -1,4 +1,4 @@
 # rsschool-cv
 rolling scopes school
 
-https://fullcycleroid.github.io/rsschool-cv/cv.md
+https://fullcycleroid.github.io/rsschool-cv/cv
