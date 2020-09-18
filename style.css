@@ -1,0 +1,44 @@
+html {
+    font-family: Roboto;
+    line-height: 1.5;
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+body {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.container {
+    width: 800px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.inner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.avatar {
+    display: block;
+    width: 370px;
+    height: 250px;
+    border-radius: 50px;
+}
+
+.text_body {
+    text-align: center;
+}
+
+h5 {
+    margin: 0;
+    padding: 0;
+}
+
